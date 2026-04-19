@@ -27,4 +27,4 @@ I'm Iury! I hold a degree in Digital Media from the Federal University of Paraí
 ---
 ### Languages and technologies ###
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,nodejs,react,python,mysql,mongodb,express,cs,dotnet)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,nodejs,react,python,mysql,mongodb,aws,fastapi,flask,terraform,express,cs,dotnet)
