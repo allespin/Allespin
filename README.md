@@ -1,6 +1,6 @@
 # Iury Guedes
 
-**Full Stack Developer & Machine Learning Engineer**
+**Full Stack Developer**
 
 
 <br>
