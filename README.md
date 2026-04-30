@@ -16,6 +16,8 @@
 
 I'm Iury! I hold a degree in Digital Media from the Federal University of Paraíba and a postgraduate degree in Computer Systems Analysis and Development from Anhanguera University. I am eternally curious about the world of technology, a book devourer, an indie games explorer, and a life enthusiast.
 
+All my projects are in portuguese and english.
+
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=/" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/iury-guedes-150433248/" title="LinkedIn">
