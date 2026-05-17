@@ -18,7 +18,7 @@ I'm Iury! I hold a degree in Digital Media from the Federal University of Paraí
 
 All my projects are in portuguese and english.
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=/" title="Gmail">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=iuryagg@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://github.com/allespin?tab=repositories" title="Github">
   <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"  height="20" alt="LinkedIn"/></a><br>
