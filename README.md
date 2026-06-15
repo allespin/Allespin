@@ -1,6 +1,6 @@
 # Iury Guedes
 
-### Data Engineer and Full Stack Developer
+### Full Stack Developer
  
 
 <br>
