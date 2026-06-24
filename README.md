@@ -1,6 +1,6 @@
 # Iury Guedes
 
-### Full Stack Developer
+### Desenvolvedor Full Stack 
  
 
 <br>
@@ -14,9 +14,9 @@
 ###
 ---
 
-Hey, I'm Iury! I'm a Full Stack Developer with a deep passion for innovation. I am eternally curious about the world, a book devourer, an indie games explorer, and a life enthusiast.
+Olá, meu nome é Iury! Sou Desenvolvedor Full Stack com experiência em desenvolvimento e integração de sistemas Front-end, Back-end e Banco de Dados. Sou apaixonado pelo que faço e busco sempre desenvolver projetos que solucionem problemase e impactem pessoas.
 
-All my projects are in portuguese and english.
+Todos os meus projetos estão em Português e Inglês / All my projects are in Portuguese and English.
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=iuryagg@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
@@ -27,6 +27,6 @@ All my projects are in portuguese and english.
 
 
 ---
-### Languages and technologies ###
+### Linguagens e Tecnologias ###
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,nodejs,react,python,mysql,mongodb,aws,express,cs,dotnet)
