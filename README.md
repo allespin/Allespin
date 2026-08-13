@@ -1,6 +1,6 @@
 # Iury Guedes
 
-### Desenvolvedor Full Stack 
+### Cientista de Dados e Desenvolvedor Full Stack 
  
 
 <br>
@@ -14,7 +14,7 @@
 ###
 ---
 
-Olá, meu nome é Iury! Sou Desenvolvedor Full Stack com experiência em desenvolvimento e integração de sistemas Front-end, Back-end e Banco de Dados. Sou apaixonado pelo que faço e busco sempre desenvolver projetos que solucionem problemas e impactem pessoas.
+Olá, meu nome é Iury! Sou Cientista de Dados e Desenvolvedor Full Stack com experiência em desenvolvimento e integração de sistemas Front-end, Back-end e Banco de Dados. Sou apaixonado pelo que faço e busco sempre desenvolver projetos que solucionem problemas e impactem pessoas.
 
 Todos os meus projetos estão em Português e Inglês / All my projects are in Portuguese and English.
 
