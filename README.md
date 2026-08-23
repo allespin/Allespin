@@ -1,6 +1,6 @@
 # Iury Guedes
 
-### Cientista de Dados e Desenvolvedor Full Stack 
+### Analista de Mídias Digitais e Desenvolvedor Full Stack 
  
 
 <br>
